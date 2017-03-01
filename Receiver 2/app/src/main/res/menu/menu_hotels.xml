@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/switchtoHotels"
+        android:title="Hotels"></item>
+    <item
+        android:id="@+id/switchtoRestaurants"
+        android:title="Restaurants"></item>
+</menu>

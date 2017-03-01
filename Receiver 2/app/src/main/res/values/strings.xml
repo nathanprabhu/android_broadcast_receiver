@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CS478_Proj3_3</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="chicagohotels">
+        <item>The Drake</item>
+        <item>Trump International</item>
+        <item>Hotel Chicago Downtown</item>
+        <item>Omni Chicago</item>
+        <item>Hyatt Regency</item>
+        <item>Palmer</item>
+    </string-array>
+    <string-array name="chicagorestaurants">
+        <item>Girl and the Goat</item>
+        <item>Alinea</item>
+        <item>Purple Pig</item>
+        <item>Quartino</item>
+        <item>Boka</item>
+        <item>Tanta</item>
+    </string-array>
+
+</resources>
